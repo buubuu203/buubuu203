@@ -49,12 +49,13 @@ Sole Product Owner of the **CTicket Platform** at Cake by VPBank — a 7-enginee
 
 <br/>
 
+<p align="center"><sub>📅 Cumulative since Mar 2025, CTicket Platform</sub></p>
+
 <div align="center">
-
-| GMV | Revenue | Accounts | Features Shipped |
-|:---:|:---:|:---:|:---:|
-| 238bn+ VND | 8bn+ VND | 99k+ | 30+ |
-
+  <img src="https://img.shields.io/badge/GMV-238bn%2B_VND-2f5bff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Revenue-8bn%2B_VND-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accounts-99k%2B-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Features_Shipped-30%2B-ff5722?style=for-the-badge" />
 </div>
 
 <br/>
